@@ -1,0 +1,14 @@
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\bin\Debug\net7.0\subcadenas-en-cadena.exe
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\bin\Debug\net7.0\subcadenas-en-cadena.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\bin\Debug\net7.0\subcadenas-en-cadena.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\bin\Debug\net7.0\subcadenas-en-cadena.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\bin\Debug\net7.0\subcadenas-en-cadena.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\subcadenas-en-cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\subcadenas-en-cadena.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\subcadenas-en-cadena.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\subcadenas-en-cadena.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\subcadenas-en-cadena.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\refint\subcadenas-en-cadena.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\subcadenas-en-cadena.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\subcadenas-en-cadena.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\subcadenas-a-cadenas\subcadenas-a-cadenas\obj\Debug\net7.0\ref\subcadenas-en-cadena.dll
