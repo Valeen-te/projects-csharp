@@ -1,0 +1,14 @@
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\bin\Debug\net7.0\rotar-arreglo-pivote.exe
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\bin\Debug\net7.0\rotar-arreglo-pivote.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\bin\Debug\net7.0\rotar-arreglo-pivote.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\bin\Debug\net7.0\rotar-arreglo-pivote.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\bin\Debug\net7.0\rotar-arreglo-pivote.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\rotar-arreglo-pivote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\rotar-arreglo-pivote.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\rotar-arreglo-pivote.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\rotar-arreglo-pivote.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\rotar-arreglo-pivote.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\refint\rotar-arreglo-pivote.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\rotar-arreglo-pivote.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\rotar-arreglo-pivote.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\rotar-arreglo-pivote\rotar-arreglo-pivote\obj\Debug\net7.0\ref\rotar-arreglo-pivote.dll
