@@ -1,0 +1,14 @@
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\bin\Debug\net7.0\suma-numeros-array.exe
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\bin\Debug\net7.0\suma-numeros-array.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\bin\Debug\net7.0\suma-numeros-array.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\bin\Debug\net7.0\suma-numeros-array.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\bin\Debug\net7.0\suma-numeros-array.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\suma-numeros-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\suma-numeros-array.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\suma-numeros-array.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\suma-numeros-array.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\suma-numeros-array.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\refint\suma-numeros-array.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\suma-numeros-array.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\suma-numeros-array.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\suma-numeros-array\suma-numeros-array\obj\Debug\net7.0\ref\suma-numeros-array.dll
