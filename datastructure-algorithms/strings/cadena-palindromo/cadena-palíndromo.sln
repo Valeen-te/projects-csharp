@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cadena-palíndromo", "cadena-palíndromo\cadena-palíndromo.csproj", "{8E1FD7E5-2047-48E7-92D7-F7B126FF212C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1FD7E5-2047-48E7-92D7-F7B126FF212C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1FD7E5-2047-48E7-92D7-F7B126FF212C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1FD7E5-2047-48E7-92D7-F7B126FF212C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1FD7E5-2047-48E7-92D7-F7B126FF212C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1592BE1-6090-40DC-A74E-C0F2D9FCEDA0}
+	EndGlobalSection
+EndGlobal

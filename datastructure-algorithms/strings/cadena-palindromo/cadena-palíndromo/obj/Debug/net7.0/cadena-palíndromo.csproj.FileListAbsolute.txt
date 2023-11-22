@@ -1,0 +1,14 @@
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\bin\Debug\net7.0\cadena-palíndromo.exe
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\bin\Debug\net7.0\cadena-palíndromo.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\bin\Debug\net7.0\cadena-palíndromo.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\bin\Debug\net7.0\cadena-palíndromo.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\bin\Debug\net7.0\cadena-palíndromo.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\cadena-palíndromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\cadena-palíndromo.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\cadena-palíndromo.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\cadena-palíndromo.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\cadena-palíndromo.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\refint\cadena-palíndromo.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\cadena-palíndromo.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\cadena-palíndromo.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadena-palíndromo\cadena-palíndromo\obj\Debug\net7.0\ref\cadena-palíndromo.dll
