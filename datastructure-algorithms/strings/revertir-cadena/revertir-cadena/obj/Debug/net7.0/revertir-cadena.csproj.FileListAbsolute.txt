@@ -1,0 +1,14 @@
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\bin\Debug\net7.0\revertir-cadena.exe
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\bin\Debug\net7.0\revertir-cadena.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\bin\Debug\net7.0\revertir-cadena.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\bin\Debug\net7.0\revertir-cadena.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\bin\Debug\net7.0\revertir-cadena.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\revertir-cadena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\revertir-cadena.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\revertir-cadena.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\revertir-cadena.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\revertir-cadena.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\refint\revertir-cadena.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\revertir-cadena.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\revertir-cadena.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\revertir-cadena\revertir-cadena\obj\Debug\net7.0\ref\revertir-cadena.dll
