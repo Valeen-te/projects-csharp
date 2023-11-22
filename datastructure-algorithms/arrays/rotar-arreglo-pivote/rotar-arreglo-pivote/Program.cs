@@ -7,6 +7,8 @@ ImprimirMatriz(array);
 
 int[] arrayRotada = RotarMatriz(array, pivote);
 
+Console.WriteLine("---------------------------------");
+
 Console.WriteLine("Arreglo final:");
 
 ImprimirMatriz(arrayRotada);
