@@ -1,0 +1,14 @@
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\bin\Debug\net7.0\cadenas-anagramas.exe
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\bin\Debug\net7.0\cadenas-anagramas.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\bin\Debug\net7.0\cadenas-anagramas.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\bin\Debug\net7.0\cadenas-anagramas.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\bin\Debug\net7.0\cadenas-anagramas.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\cadenas-anagramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\cadenas-anagramas.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\cadenas-anagramas.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\cadenas-anagramas.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\cadenas-anagramas.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\refint\cadenas-anagramas.dll
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\cadenas-anagramas.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\cadenas-anagramas.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-c#\estructura-datos-&-algoritmos\cadenas\cadenas-anagramas\cadenas-anagramas\obj\Debug\net7.0\ref\cadenas-anagramas.dll
