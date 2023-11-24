@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Joan\\Documents\\Workspace\\proyectos-csharp\\datastructure-algorithms\\arrays\\intercambiar-valores-min-max\\intercambiar-valores-min-max\\intercambiar-valores-min-max.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Joan\\Documents\\Workspace\\proyectos-csharp\\datastructure-algorithms\\arrays\\intercambiar-valores-min-max\\intercambiar-valores-min-max\\intercambiar-valores-min-max.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Joan\\Documents\\Workspace\\proyectos-csharp\\datastructure-algorithms\\arrays\\intercambiar-valores-min-max\\intercambiar-valores-min-max\\intercambiar-valores-min-max.csproj",
+        "projectName": "intercambiar-valores-min-max",
+        "projectPath": "C:\\Users\\Joan\\Documents\\Workspace\\proyectos-csharp\\datastructure-algorithms\\arrays\\intercambiar-valores-min-max\\intercambiar-valores-min-max\\intercambiar-valores-min-max.csproj",
+        "packagesPath": "C:\\Users\\Joan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joan\\Documents\\Workspace\\proyectos-csharp\\datastructure-algorithms\\arrays\\intercambiar-valores-min-max\\intercambiar-valores-min-max\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Joan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

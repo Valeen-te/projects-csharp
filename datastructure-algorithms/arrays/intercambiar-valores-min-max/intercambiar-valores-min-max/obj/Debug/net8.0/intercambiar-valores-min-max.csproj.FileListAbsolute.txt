@@ -1,0 +1,15 @@
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\bin\Debug\net8.0\intercambiar-valores-min-max.exe
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\bin\Debug\net8.0\intercambiar-valores-min-max.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\bin\Debug\net8.0\intercambiar-valores-min-max.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\bin\Debug\net8.0\intercambiar-valores-min-max.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\bin\Debug\net8.0\intercambiar-valores-min-max.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.sourcelink.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\refint\intercambiar-valores-min-max.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\intercambiar-valores-min-max.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\intercambiar-valores-min-max\intercambiar-valores-min-max\obj\Debug\net8.0\ref\intercambiar-valores-min-max.dll
