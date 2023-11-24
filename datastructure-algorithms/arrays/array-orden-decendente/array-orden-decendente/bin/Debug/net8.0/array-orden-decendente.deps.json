@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "array-orden-decendente/1.0.0": {
+        "runtime": {
+          "array-orden-decendente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "array-orden-decendente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
