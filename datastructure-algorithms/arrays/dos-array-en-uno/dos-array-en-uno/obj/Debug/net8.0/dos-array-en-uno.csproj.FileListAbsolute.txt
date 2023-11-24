@@ -1,0 +1,15 @@
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\bin\Debug\net8.0\dos-array-en-uno.exe
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\bin\Debug\net8.0\dos-array-en-uno.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\bin\Debug\net8.0\dos-array-en-uno.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\bin\Debug\net8.0\dos-array-en-uno.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\bin\Debug\net8.0\dos-array-en-uno.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.sourcelink.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\refint\dos-array-en-uno.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\dos-array-en-uno.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\dos-array-en-uno\dos-array-en-uno\obj\Debug\net8.0\ref\dos-array-en-uno.dll
