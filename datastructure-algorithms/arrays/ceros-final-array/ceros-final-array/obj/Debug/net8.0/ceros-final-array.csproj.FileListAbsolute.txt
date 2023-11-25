@@ -1,0 +1,15 @@
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\bin\Debug\net8.0\ceros-final-array.exe
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\bin\Debug\net8.0\ceros-final-array.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\bin\Debug\net8.0\ceros-final-array.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\bin\Debug\net8.0\ceros-final-array.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\bin\Debug\net8.0\ceros-final-array.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.sourcelink.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\refint\ceros-final-array.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ceros-final-array.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\arrays\ceros-final-array\ceros-final-array\obj\Debug\net8.0\ref\ceros-final-array.dll
