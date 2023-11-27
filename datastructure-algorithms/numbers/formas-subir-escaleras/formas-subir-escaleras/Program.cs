@@ -3,24 +3,43 @@ using System.Timers;
 
 Console.Write("Dime el número de escaleras: ");
 
-int escaleras = int.Parse(Console.ReadLine());
+int nroEscaleras = int.Parse(Console.ReadLine());
 
-int a = 0;
+int resultado = ContarFormas(nroEscaleras);
 
-int b = 1;
+Console.WriteLine($"\nEl número de formas de subir las escaleras es: {resultado}");
 
-int c = 0;
 
-for(int i = 1; i <= escaleras; i++)
+//forma iterativa
+static int ContarEscaleras(int n)
 {
-    c = a + b;
 
-    if (i != 1)
+    if (n <= 3) return n;
+
+    int a = 2;
+
+    int b = 1;
+
+    for (int i = 3; i <= n; i++)
     {
-        b = a;
+        int c = a;
+
+        a = a + b;
+
+        b = c;
     }
 
-    a = c;
+    return a;
 }
 
-Console.WriteLine($"\nEl número de formas de subir las escaleras es: {c}");
+//forma recursiva
+static int ContarFormas(int n)
+{
+    switch (n)
+    {
+        case <= 3:
+            return n;
+        default:
+            return ContarFormas(n - 1) + ContarFormas(n - 2);
+    }
+}

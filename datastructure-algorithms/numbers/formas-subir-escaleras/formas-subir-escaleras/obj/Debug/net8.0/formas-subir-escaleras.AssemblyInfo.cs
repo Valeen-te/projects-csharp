@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("formas-subir-escaleras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cecdab868658f184c9298511b3cf4919622586f4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6359f1a696a5098d8f791ada6acf0227b4a57565")]
 [assembly: System.Reflection.AssemblyProductAttribute("formas-subir-escaleras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("formas-subir-escaleras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
