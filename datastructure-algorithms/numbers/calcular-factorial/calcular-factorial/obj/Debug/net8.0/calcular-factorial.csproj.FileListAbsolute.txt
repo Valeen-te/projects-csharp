@@ -1,0 +1,15 @@
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\bin\Debug\net8.0\calcular-factorial.exe
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\bin\Debug\net8.0\calcular-factorial.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\bin\Debug\net8.0\calcular-factorial.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\bin\Debug\net8.0\calcular-factorial.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\bin\Debug\net8.0\calcular-factorial.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.sourcelink.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\refint\calcular-factorial.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\calcular-factorial.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-factorial\calcular-factorial\obj\Debug\net8.0\ref\calcular-factorial.dll
