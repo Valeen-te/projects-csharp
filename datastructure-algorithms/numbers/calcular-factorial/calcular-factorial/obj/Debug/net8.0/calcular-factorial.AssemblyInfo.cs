@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calcular-factorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3336bf1f84ebd530f37daae75f350657a33b5be4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13816e84704247a198e5c88886417704a88b23b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("calcular-factorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calcular-factorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
