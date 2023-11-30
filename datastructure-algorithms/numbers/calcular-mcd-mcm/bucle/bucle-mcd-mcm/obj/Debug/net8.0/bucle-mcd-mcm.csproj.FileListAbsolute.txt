@@ -1,0 +1,15 @@
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\bin\Debug\net8.0\bucle-mcd-mcm.exe
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\bin\Debug\net8.0\bucle-mcd-mcm.deps.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\bin\Debug\net8.0\bucle-mcd-mcm.runtimeconfig.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\bin\Debug\net8.0\bucle-mcd-mcm.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\bin\Debug\net8.0\bucle-mcd-mcm.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.AssemblyInfoInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.AssemblyInfo.cs
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.sourcelink.json
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\refint\bucle-mcd-mcm.dll
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.pdb
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\bucle-mcd-mcm.genruntimeconfig.cache
+C:\Users\Joan\Documents\Workspace\proyectos-csharp\datastructure-algorithms\numbers\calcular-mcd-mcm\bucle\bucle-mcd-mcm\bucle-mcd-mcm\obj\Debug\net8.0\ref\bucle-mcd-mcm.dll
