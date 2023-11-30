@@ -1,1 +1,40 @@
+# Carpeta bin y obj
+bin/
+obj/
+
+# Archivos de respaldo de Visual Studio
+*.bak
+*.user
+
+# Archivos de configuración de Visual Studio
+*.sln
+*.csproj
+*.userprefs
 .vs/
+
+# Archivos de caché y registros
+*.log
+*.cache
+
+# Archivos de dependencias y paquetes de NuGet
+packages/
+*.nupkg
+*.paket.template
+paket-files/
+
+# Archivos de configuración local
+*.config.user
+
+# Archivos de credenciales y configuración sensible
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Otros archivos y carpetas generados automáticamente
+_Resharper.*
+_ReSharper.*
+*.swp
+*.suo
+*.sln.ide
+*.suo.ide
+*.userprefs
