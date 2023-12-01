@@ -7,9 +7,6 @@ obj/
 *.user
 
 # Archivos de configuración de Visual Studio
-*.sln
-*.csproj
-*.userprefs
 .vs/
 
 # Archivos de caché y registros
