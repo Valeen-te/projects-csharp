@@ -1,27 +1,50 @@
 ﻿int[] array = { 4, 1, 7, 3, 6, 8, 2, 9, 5 };
 
-MostrarArray(array);
-
-MoverNumeros(array, 0, array.Length - 1);
+Console.WriteLine("Array original: ");
 
 MostrarArray(array);
 
-static void MoverNumeros(int[] arr, int min, int max)
+Quicksort(array, 0, array.Length - 1);
+
+Console.WriteLine("Array ordenado: ");
+
+MostrarArray(array);
+
+static void Quicksort(int[] array,int min, int max)
 {
-    int pivote = arr[max];
-
-    int i = min;
-
-    for (int j = 0; j < arr.Length - 1; j++)
+    if (min < max)
     {
-        if (arr[j] > pivote)
+        int particionIndice = Particion(array, min, max);
+        Quicksort(array, min, particionIndice - 1);
+        Quicksort(array, particionIndice + 1, max);
+    }
+}
+
+static int Particion(int[] array, int min, int max)
+{
+    int pivote = array[max];
+
+    int i = min - 1;
+
+    for (int j = min; j <= max; j++)
+    {
+        if (array[j] < pivote)
         {
             i++;
-            int temp = arr[j];
-            arr[j] = arr[max];
-            arr[max] = temp;
+            Cambio(array, i, j);
         }
     }
+
+    Cambio(array, i + 1, max);
+
+    return i + 1;
+}
+
+static void Cambio(int[] array, int i, int j)
+{
+    int temp = array[i];
+    array[i] = array[j];
+    array[j] = temp;
 }
 
 static void MostrarArray(int[] arr)
