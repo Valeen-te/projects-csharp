@@ -1,23 +1,25 @@
-﻿Empleado empl1 = new("Juan", 01);
-Empleado empl2 = new("Dani", 02);
-Empleado empl3 = new("Maria", 03);
-Empleado empl4 = new("Jose", 04);
-Empleado empl5 = new("pedro", 05);
-Empleado empl6 = new("sergio", 06);
+﻿ArbolBusquedaBinaria arb = new();
 
-ArbolBusquedaBinaria arb = new();
-
-arb.Ingresar(empl3);
-arb.Ingresar(empl2);
-arb.Ingresar(empl4);
-arb.Ingresar(empl6);
-arb.Ingresar(empl1);
-arb.Ingresar(empl5);
+arb.Ingresar(new("Maria", 4));
+arb.Ingresar(new("Dani", 2));
+arb.Ingresar(new("Jose", 6));
+arb.Ingresar(new("sergio", 1));
+arb.Ingresar(new("Juan", 3));
+arb.Ingresar(new("pedro", 5));
+arb.Ingresar(new("Luis", 7));
 
 NodoArbol nodo = arb.ObternerRaiz();
 
-arb.inorder(nodo);
+Console.WriteLine("Empleados:");
 
+arb.Inorder(nodo);
+
+Console.WriteLine("Busqueda:");
+
+arb.BreadthFirsSearch(2);
+arb.BreadthFirsSearch(3);
+arb.BreadthFirsSearch(5);
+arb.BreadthFirsSearch(9);
 
 public class Empleado
 {
@@ -71,11 +73,11 @@ public class ArbolBusquedaBinaria
         }
         else
         {
-            ingresarRecursivo(nuevoNodo, raiz);
+            IngresarRecursivo(nuevoNodo, raiz);
         }
     }
 
-    public void ingresarRecursivo(NodoArbol nuevoNodo,NodoArbol raiz)
+    public void IngresarRecursivo(NodoArbol nuevoNodo,NodoArbol raiz)
     {
 
         int id = nuevoNodo.empleado.id;
@@ -88,7 +90,7 @@ public class ArbolBusquedaBinaria
             }
             else
             {
-                ingresarRecursivo(nuevoNodo, raiz.izquierda);
+                IngresarRecursivo(nuevoNodo, raiz.izquierda);
             }
         }
         else
@@ -99,22 +101,22 @@ public class ArbolBusquedaBinaria
             }
             else
             {
-                ingresarRecursivo(nuevoNodo, raiz.derecha);
+                IngresarRecursivo(nuevoNodo, raiz.derecha);
             }
         }
     }
 
-    public void inorder(NodoArbol nodoActual)
+    public void Inorder(NodoArbol nodoActual)
     {
         if(nodoActual != null)
         {
-            inorder(nodoActual.izquierda);
-            Console.WriteLine(nodoActual.empleado.nombre);
-            inorder(nodoActual.derecha);
+            Inorder(nodoActual.izquierda);
+            Console.WriteLine($"ID: {nodoActual.empleado.id}, Nombre: {nodoActual.empleado.nombre}");
+            Inorder(nodoActual.derecha);
         }
     }
 
-    public void BreadthFirsSearch()
+    public void BreadthFirsSearch(int id)
     {
         if(raiz == null)
         {
@@ -122,14 +124,32 @@ public class ArbolBusquedaBinaria
             return;
         }
 
-        Queue<NodoArbol> queue = new();
+        Queue<NodoArbol> cola = new();
 
-        queue.Enqueue(raiz);
+        cola.Enqueue(raiz);
 
-        while (queue.Count > 0)
+        while (cola.Count > 0)
         {
-            n
+            NodoArbol actual = cola.Dequeue();
+
+            if(id == actual.empleado.id)
+            {
+                Console.WriteLine($"ID: {actual.empleado.id}, Nombre: {actual.empleado.nombre}");
+                return;
+            }
+
+            if (actual.izquierda != null)
+            {
+                cola.Enqueue(actual.izquierda);
+            }
+
+            if(actual.derecha != null)
+            {
+                cola.Enqueue(actual.derecha);
+            }
         }
+
+        Console.WriteLine("Empleado no encontrado");
     }
 
 }
