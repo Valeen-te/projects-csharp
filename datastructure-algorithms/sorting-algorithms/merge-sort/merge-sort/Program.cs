@@ -1,13 +1,38 @@
 ﻿int[] array = { 4, 6, 9, 1, 7, 5, 3, 0, 2, 8 };
 
-MergeSort(array, 0, array.Length);
+Console.WriteLine("Antes:");
 
-static void MergeSort(int[] arr, int min, int max)
+MostrarArray(array);
+
+MergeSort(array, 0, array.Length - 1);
+
+Console.WriteLine("Despues:");
+
+MostrarArray(array);
+
+
+static void MergeSort(int[] arr, int izq, int der)
 {
-    int cut = max / 2;
-
-    if (cut < min)
+    if (izq < der)
     {
-        MergeSort(arr, min, cut);
+        int med = (izq + der) / 2;
+
+        MergeSort(arr, izq, med);
+
+        MergeSort(arr, med + 1, der);
     }
+}
+
+static void Merge()
+{
+
+}
+
+static void MostrarArray(int[] arr)
+{
+    foreach (int i in arr)
+    {
+        Console.Write(i + " ");
+    }
+    Console.WriteLine();
 }
